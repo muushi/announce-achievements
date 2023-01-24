@@ -1,0 +1,7 @@
+## Interface: 30401
+## Title: AnnounceAchievements
+## Notes: announce your achievements to your guild!
+## Author: muushi
+## Version: 1.0
+
+announce.lua
